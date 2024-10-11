@@ -1,0 +1,233 @@
+{
+  "heading": "Square root",
+  "topics": [
+    {
+      "heading": "Square root",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Find Square root of 6400 using prime factorization method",
+            "options": [
+                { "text": "60", "image": null },
+                { "text": "70", "image": null },
+                { "text": "80", "image": null },
+                { "text": "90", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "Find the value of a, b, c and d:<br><img width='70%' src='./assests/images/question/1.png'>",
+            "options": [
+                { "text": "a=3, b=3, c=13, d=13", "image": null },
+                { "text": "a=3, b=7, c=17, d=13", "image": null },
+                { "text": "a=7, b=7, c=13, d=13", "image": null },
+                { "text": "a=7, b=3, c=17, d=13", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 3,
+            "question": "Find square root of 5625 using prime factorisation, given prime factors below:<br>5625 = 3×3×5×5×5×5",
+            "options": [
+                { "text": "65", "image": null },
+                { "text": "75", "image": null },
+                { "text": "85", "image": null },
+                { "text": "95", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 4,
+            "question": "Find square root of 9025",
+            "options": [
+                { "text": "30", "image": null },
+                { "text": "31", "image": null },
+                { "text": "Not a Perfect Square", "image": null },
+                { "text": "None of the Above", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 5,
+            "question": "Find the smallest multiple of 360 which is a perfect square",
+            "options": [
+                { "text": "3600", "image": null },
+                { "text": "720", "image": null },
+                { "text": "1080", "image": null },
+                { "text": "60", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 6,
+            "question": "Find the smallest number by which 6080 must be divided so that the resulting number is a perfect square",
+            "options": [
+                { "text": "19", "image": null },
+                { "text": "5", "image": null },
+                { "text": "85", "image": null },
+                { "text": "95", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 7,
+            "question": "Find the smallest square number that is divisible by each of the numbers 5, 8 and 10",
+            "options": [
+                { "text": "40", "image": null },
+                { "text": "400", "image": null },
+                { "text": "640", "image": null },
+                { "text": "180", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 8,
+            "question": "Find the smallest whole number by which 1200 should be divided so as to get a perfect square",
+            "options": [
+                { "text": "2", "image": null },
+                { "text": "3", "image": null },
+                { "text": "5", "image": null },
+                { "text": "7", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 9,
+            "question": "Find the square root of 5776 using prime factorisation",
+            "options": [
+                { "text": "74", "image": null },
+                { "text": "66", "image": null },
+                { "text": "76", "image": null },
+                { "text": "64", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "2025 plants are to be planted in a garden in such a way that each row contains as many plants as the number of rows. Find the number of rows and the number of plants in each row",
+            "options": [
+                { "text": "79", "image": null },
+                { "text": "91", "image": null },
+                { "text": "71", "image": null },
+                { "text": "81", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 11,
+            "question": "Find the square root of 841 using division method",
+            "options": [
+                { "text": "24", "image": null },
+                { "text": "16", "image": null },
+                { "text": "18", "image": null },
+                { "text": "29", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 12,
+            "question": "Find the square root of 10609 using division method",
+            "options": [
+                { "text": "103", "image": null },
+                { "text": "102", "image": null },
+                { "text": "107", "image": null },
+                { "text": "97", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 13,
+            "question": "Find the value of a:<br><img width='70%' src='./assests/images/question/2.png'>",
+            "options": [
+                { "text": "a = 221", "image": null },
+                { "text": "a = 241", "image": null },
+                { "text": "a = 240", "image": null },
+                { "text": "a = 5", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 14,
+            "question": "Find the greatest 3-digit number which is a perfect square.",
+            "options": [
+                { "text": "961", "image": null },
+                { "text": "971", "image": null },
+                { "text": "38", "image": null },
+                { "text": "999", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "Find the least number that must be added to 1625 so as to get a perfect square",
+            "options": [
+                { "text": "40", "image": null },
+                { "text": "44", "image": null },
+                { "text": "56", "image": null },
+                { "text": "25", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 16,
+            "question": "Find the least number which must be subtracted from 809 to make it a perfect square",
+            "options": [
+                { "text": "25", "image": null },
+                { "text": "0", "image": null },
+                { "text": "9", "image": null },
+                { "text": "50", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 17,
+            "question": "Find the value of a:<br><img width='70%' src='./assests/images/question/3.png'>",
+            "options": [
+                { "text": "a = 38", "image": null },
+                { "text": "a = 18", "image": null },
+                { "text": "a = 28", "image": null },
+                { "text": "a = 48", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 18,
+            "question": "Find the least number which must be added to 4625",
+            "options": [
+                { "text": "163", "image": null },
+                { "text": "136", "image": null },
+                { "text": "236", "image": null },
+                { "text": "444", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Find the length of the side of a square whose area is 484 sq. mtrs.",
+            "options": [
+                { "text": "19", "image": null },
+                { "text": "21", "image": null },
+                { "text": "18", "image": null },
+                { "text": "22", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 20,
+            "question": "A gardener has 1086 plants. He wants to plant these in such a way that the number of rows and the number of columns remain same. Find the minimum number of plants he needs more for this.",
+            "options": [
+                { "text": "8", "image": null },
+                { "text": "9", "image": null },
+                { "text": "3", "image": null },
+                { "text": "7", "image": null }
+            ],
+            "answer": 2
+        }
+    ]
+    
+    
+    
+    }
+  ]
+}
